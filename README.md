@@ -1,4 +1,4 @@
-# [ARCHIVE] Space Game in Pixi.js
+# [ARCHIVE] Dungeon Game in Pixi.js
 
 Back in 2017 I fiddled around with pixi.js and tried to recreate a dungeon from the original "The Legend of Zelda".
 
